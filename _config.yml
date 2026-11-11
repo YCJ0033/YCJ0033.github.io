@@ -23,7 +23,7 @@ repository               : 	"YCJ0033/YCJ0033.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my-profile.png"
   name             : "윤채준"
   pronouns         :   
   bio              : "컴퓨터공학을 공부하며 다양한 프로젝트를 진행하고 있습니다."
